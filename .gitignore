@@ -1,4 +1,8 @@
 src/main/resources/
+gradlew
+gradlew.bat
+.DS_Store
+
 
 # User-specific stuff
 .idea/**/workspace.xml
